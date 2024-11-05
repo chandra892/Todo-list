@@ -44,7 +44,7 @@ function App() {
 
     return (
         <div className='container'>
-            <h1>To-Do List</h1>
+            <h1>Todo List</h1>
             <div className='addclass'>
                 <input
                     type="text"
